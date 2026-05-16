@@ -1,4 +1,4 @@
-# Hi, I'm Rekha Gunathilake 👋
+# Hi, I'm Rekha 👋
 
 .NET Technical Lead with 10+ years building enterprise systems at scale — 
 from financial client portals for global asset managers to cloud-native platforms 
