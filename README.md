@@ -53,5 +53,5 @@ When I'm not engineering systems I'm usually on a mountain somewhere.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rekhagunathilake-blue?logo=linkedin)](https://linkedin.com/in/rekhagunathilake-b5144843)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rekhagunathilake-blue?logo=linkedin)](https://www.linkedin.com/in/rekha-gunathilake-b5144843/)
 [![Email](https://img.shields.io/badge/Email-patience0112@gmail.com-red?logo=gmail)](mailto:patience0112@gmail.com)
