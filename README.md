@@ -36,7 +36,7 @@ Features an admin panel, rich text editor, S3 media storage, and public comments
 
 ## 📌 Career Highlights
 
-- 🏗 Architected e-commerce platform handling **1M+ transactions/month** on AWS
+- 🏗 Contributed to a cloud-native e-commerce platform on AWS handling 1M+ transactions/month — led architecture and delivery of journal article tool / rapid media tool
 - ⚡ Improved Microsoft Office extension performance by **35%** via async refactoring
 - 🔁 Led GitLab → GitHub CI/CD migration for a large distributed team
 - ✅ Maintained **98% test coverage** across production deployments
