@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Rekha Gunathilake 👋
 
-<!--
-**rekhagunathilake/rekhagunathilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Technical Lead with 10+ years building enterprise systems at scale — 
+from financial client portals for global asset managers to cloud-native platforms 
+handling 1M+ transactions/month.
 
-Here are some ideas to get you started:
+Currently building AI agent tooling in .NET and actively seeking opportunities in 
+🇦🇺 Australia · 🇳🇿 New Zealand · 🇬🇧 United Kingdom · 🇨🇦 Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Backend:** .NET 10 · ASP.NET Core · C# · Entity Framework · Web API  
+**Cloud:** AWS · Azure · Docker · Kubernetes  
+**Frontend:** React · Next.js · Vue.js · TypeScript  
+**Databases:** PostgreSQL · SQL Server · MongoDB · Redis · Elasticsearch  
+**AI & Agents:** MCP (Model Context Protocol) · Claude API · OpenAI API · Claude Code  
+**DevOps:** CI/CD · Jenkins · GitHub Actions · Azure DevOps  
+
+---
+
+## 🚀 Projects
+
+### 🔧 dotnet-dev-tools-mcp *(in progress)*
+An MCP server exposing AI-powered developer productivity tools — code review, 
+commit message generation, and PR description generation.  
+Built with .NET 10 · Claude API · OpenAI API · Custom ILlmService abstraction  
+> Connects natively with Claude Code
+
+### ✈️ Travel Journal *(coming soon)*
+A full-stack travel journal built with Next.js, PostgreSQL, Prisma, and AWS.  
+Features an admin panel, rich text editor, S3 media storage, and public comments.
+
+---
+
+## 📌 Career Highlights
+
+- 🏗 Architected e-commerce platform handling **1M+ transactions/month** on AWS
+- ⚡ Improved Microsoft Office extension performance by **35%** via async refactoring
+- 🔁 Led GitLab → GitHub CI/CD migration for a large distributed team
+- ✅ Maintained **98% test coverage** across production deployments
+- 🏔 ACS Skills Assessment — Positive (ANZSCO 261313) · Software Engineer
+
+---
+
+## 🌍 Beyond Code
+
+When I'm not engineering systems I'm usually on a mountain somewhere.  
+**Everest Base Camp** 🏔 (2024) · **Mount Kilimanjaro** 🗻 (2025)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rekhagunathilake-blue?logo=linkedin)](https://linkedin.com/in/rekhagunathilake-b5144843)
+[![Email](https://img.shields.io/badge/Email-patience0112@gmail.com-red?logo=gmail)](mailto:patience0112@gmail.com)
