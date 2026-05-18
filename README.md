@@ -11,11 +11,11 @@ Currently building AI agent tooling in .NET and actively seeking opportunities i
 
 ## 🛠 Tech Stack
 
-**Backend:** .NET 10 · ASP.NET Core · C# · Entity Framework · Web API · RestfulAPIs · Minimal API 
-**Cloud:** AWS · Azure · Docker · Kubernetes  
-**Frontend:** React · Next.js · Vue.js · TypeScript · Javascript · JQuery 
-**Databases:** PostgreSQL · SQL Server · MongoDB · Redis · Elasticsearch  
-**AI & Agents:** MCP (Model Context Protocol) · Semantic Kernel · Claude API · OpenAI API · Claude Code  
+**Backend:** .NET 10 · ASP.NET Core · C# · Entity Framework · Web API · RestfulAPIs · Minimal API   
+**Cloud:** AWS · Azure · Docker · Kubernetes    
+**Frontend:** React · Next.js · Vue.js · TypeScript · Javascript · JQuery   
+**Databases:** PostgreSQL · SQL Server · MongoDB · Redis · Elasticsearch    
+**AI & Agents:** MCP (Model Context Protocol) · Semantic Kernel · Claude API · OpenAI API · Claude Code    
 **DevOps:** CI/CD · Jenkins · GitHub Actions · Azure DevOps  
 
 ---
