@@ -22,11 +22,16 @@ Currently building AI agent tooling in .NET and actively seeking opportunities i
 
 ## 🚀 Projects
 
-### 🔧 dotnet-dev-tools-mcp *(in progress)*
+### 🔧 [dotnet-dev-tools-mcp](https://github.com/rekhagunathilake/dotnet-dev-tools-mcp)
 An MCP server exposing AI-powered developer productivity tools — code review, 
 commit message generation, and PR description generation.  
 Built with .NET 10 · Claude API · OpenAI API · Custom ILlmService abstraction  
 > Connects natively with Claude Code
+
+### 📚 saas-content-library-api *(in progress)*
+A B2B SaaS content library API for asset-management platforms — versioned content blocks with a compliance-driven approval workflow, in .NET 10.
+Built with ASP.NET Core · CQRS + MediatR · Clean Architecture · PostgreSQL · Docker · OpenTelemetry
+> Aggregate-rooted versioning, domain events, Result&lt;T&gt; error handling, and a Draft → InReview → Approved lifecycle
 
 ### ✈️ Travel Journal *(coming soon)*
 A full-stack travel journal built with Next.js, PostgreSQL, Prisma, and AWS.  
