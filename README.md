@@ -28,7 +28,7 @@ commit message generation, and PR description generation.
 Built with .NET 10 · Claude API · OpenAI API · Custom ILlmService abstraction  
 > Connects natively with Claude Code
 
-### 📚 [saas-content-library-api](https://github.com/rekhagunathilake/SaasContentLibrary) *(in progress)*
+### 📚 [saas-content-library-api](https://github.com/rekhagunathilake/SaasContentLibrary)
 A B2B SaaS content library API for asset-management platforms — versioned content blocks with a compliance-driven approval workflow, in .NET 10.
 Built with ASP.NET Core · CQRS + MediatR · Clean Architecture · PostgreSQL · Docker · OpenTelemetry
 > Aggregate-rooted versioning, domain events, Result&lt;T&gt; error handling, and a Draft → InReview → Approved lifecycle
