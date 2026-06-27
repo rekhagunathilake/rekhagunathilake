@@ -48,6 +48,8 @@ Built with Next.js + TypeScript · .NET Aspire · ASP.NET Core · RabbitMQ + Mas
 - ✅ Maintained **98% test coverage** across production deployments
 - 🏔 ACS Skills Assessment — Positive (ANZSCO 261313) · Software Engineer
 
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rekhagunathilake-blue?logo=linkedin)](https://www.linkedin.com/in/rekha-gunathilake-b5144843/)
