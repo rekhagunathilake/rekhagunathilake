@@ -46,7 +46,6 @@ Built with Next.js + TypeScript · .NET Aspire · ASP.NET Core · RabbitMQ + Mas
 - ⚡ Improved Microsoft Office extension performance by **35%** via async refactoring
 - 🔁 Led GitLab → GitHub CI/CD migration for a large distributed team
 - ✅ Maintained **98% test coverage** across production deployments
-- 🏔 ACS Skills Assessment — Positive (ANZSCO 261313) · Software Engineer
 
 ---
 
