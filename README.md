@@ -33,7 +33,7 @@ A B2B SaaS content library API for asset-management platforms — versioned cont
 Built with ASP.NET Core · CQRS + MediatR · Clean Architecture · PostgreSQL · Docker · OpenTelemetry
 > Aggregate-rooted versioning, domain events, Result&lt;T&gt; error handling, and a Draft → InReview → Approved lifecycle
 
-### ✈️ triplog *(work in progress)*
+### ✈️ [triplog](https://github.com/rekhagunathilake/triplog)
 A full-stack travel journal — Next.js frontend with .NET Aspire-orchestrated microservices for entries and async media processing.
 Built with Next.js + TypeScript · .NET Aspire · ASP.NET Core · RabbitMQ + MassTransit Saga · Redis · PostgreSQL · MinIO · OpenTelemetry
 > Distributed publish-entry workflow via Saga, async media pipeline, full-stack BFF pattern with Next.js Route Handlers
