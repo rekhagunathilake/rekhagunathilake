@@ -4,9 +4,6 @@
 from financial client portals for global asset managers to cloud-native platforms 
 handling 1M+ transactions/month.
 
-Currently building AI agent tooling in .NET and actively seeking opportunities in 
-🇦🇺 Australia · 🇳🇿 New Zealand · 🇬🇧 European Union · 🇨🇦 Canada
-
 ---
 
 ## 🛠 Tech Stack
